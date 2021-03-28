@@ -18,8 +18,7 @@ Link to live site: https://alisarmustafa.github.io/Advanced-GIS-Portfolio/
 ## Algorithmic Justice League Custom Map
 **Process**
 1. I found the logo for the Algorithmic Justice League and uploaded it into Canva to create a color palette. I wanted to customize my palette so I uploaded it to (https://color.adobe.com) and added one more color to the palette. 
-
-![] (Images/Color Pallette.JPG)
+![Color Pallette](https://user-images.githubusercontent.com/71081084/112759574-9a975080-8fc1-11eb-852e-fd765b5c0927.JPG)
 
 2. I went to https://mapstyle.withgoogle.com/ and chose the theme "Aubergine" for now. I left the density features as maximum for now. 
 3. I clicked on more options to customize my map. 
