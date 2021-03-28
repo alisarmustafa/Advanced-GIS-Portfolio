@@ -25,7 +25,27 @@ Link to live site: https://alisarmustafa.github.io/Advanced-GIS-Portfolio/
 4. I clicked on All/Geometry
 5. I clicked on the color bar and entered all my color codes and added them to Custom Colors for easy access. 
 6. The table below shows my customization
-
-
-
-
+Feature Type | Element Type | Styles
+All | Labels/Text Fill | Insert
+All | Labels / text outline | Insert
+Country | Geometry / Stroke | Insert
+Province | Geometry / Stroke | Insert
+Land parcel | Labels / Text fill | Insert
+Landscape / Human-made | Geometry / Stroke | Insert
+Landscape / Natural | Geometry | Insert
+Points of interest | Labels/Text Fill | Insert
+Points of interest | Labels / Text fill outline | Insert
+POI / Park | Labels / Text fill | Insert
+Road | Geometry | Insert
+Road | Labels/Text Fill | Insert
+Road | Labels/Text Outline | Insert
+Road / Highway | Geometry | Insert
+Road / Highway | Geometry / Stroke | Insert
+Road / Highway | Labels/Text Fill | Insert
+Road / Highway | Labels / Text outline | Insert
+Transit | Labels/Text Fill | Insert
+Transit | Labels / Text outline | Insert
+Transit / Line | Geometry / Fill | Insert
+Transit / Station | Geometry | Insert
+Water | Geometry | Insert
+Water | Text fill | Insert
