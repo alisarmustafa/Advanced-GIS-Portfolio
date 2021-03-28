@@ -26,6 +26,7 @@ Link to live site: https://alisarmustafa.github.io/Advanced-GIS-Portfolio/
 4. I clicked on All/Geometry
 5. I clicked on the color bar and entered all my color codes and added them to Custom Colors for easy access. 
 6. The table below shows my customization
+
 Feature Type | Element Type | Stylers
 All | Labels/Textfill | 
 
