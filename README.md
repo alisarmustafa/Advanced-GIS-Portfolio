@@ -27,26 +27,33 @@ Link to live site: https://alisarmustafa.github.io/Advanced-GIS-Portfolio/
 6. The table below shows my customization
 
 Feature Type | Element Type | Styles
-All | Labels/Text Fill | Insert
-All | Labels / text outline | Insert
-Country | Geometry / Stroke | Insert
-Province | Geometry / Stroke | Insert
-Land parcel | Labels / Text fill | Insert
-Landscape / Human-made | Geometry / Stroke | Insert
-Landscape / Natural | Geometry | Insert
-Points of interest | Labels/Text Fill | Insert
-Points of interest | Labels / Text fill outline | Insert
-POI / Park | Labels / Text fill | Insert
-Road | Geometry | Insert
-Road | Labels/Text Fill | Insert
-Road | Labels/Text Outline | Insert
-Road / Highway | Geometry | Insert
-Road / Highway | Geometry / Stroke | Insert
-Road / Highway | Labels/Text Fill | Insert
-Road / Highway | Labels / Text outline | Insert
-Transit | Labels/Text Fill | Insert
-Transit | Labels / Text outline | Insert
-Transit / Line | Geometry / Fill | Insert
-Transit / Station | Geometry | Insert
-Water | Geometry | Insert
-Water | Text fill | Insert
+All | Labels/Text Fill | #eb432c
+All | Labels / text outline | #0f0f0f
+Country | Geometry / Stroke | #832a1c / Weight= 1.5
+Province | Geometry / Stroke | #832a1c / Weight= 2
+Land parcel | Labels / Text fill | #eb432c
+Land parcel | Labels / Text outline| #0f0f0f
+Landscape / Human-made | Geometry / Stroke | #832a1c
+Landscape / Natural | Geometry | #db6847
+Points of interest | Labels/Text Fill | #eb432c
+Points of interest | Labels / Text fill outline | #0f0f0f
+POI / Park | Labels / Text fill | #eb432c
+Road | Geometry | #832a1c
+Road | Labels/Text Fill | #eb432c
+Road | Labels/Text Outline | #0f0f0f
+Road / Highway | Geometry | #b83727
+Road / Highway | Geometry / Stroke | #b83727
+Road / Highway | Labels/Text Fill | #eb432c
+Road / Highway | Labels / Text outline | #0f0f0f
+Transit | Labels/Text Fill | #eb432c
+Transit | Labels / Text outline | #0f0f0f
+Transit / Line | Geometry / Fill | #b83727
+Transit / Station | Geometry | #b83727
+Water | Geometry | #0f0f0f
+Water | Text fill | #db6847
+
+**Screenshot of Map_Washington D.C.**
+
+![Washington DC Map](https://user-images.githubusercontent.com/71081084/112761847-2497e700-8fcb-11eb-9c5d-ebb2622c5e29.JPG)
+
+
