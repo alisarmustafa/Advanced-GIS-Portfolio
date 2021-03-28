@@ -14,7 +14,7 @@ Link to live site: https://alisarmustafa.github.io/Advanced-GIS-Portfolio/
 3. How to minimze bias in the map design and implementation
 4. How to check for bias in datasets that we want to use 
 
-## Portfolio :seedling:
-# Algorithmic Justice League Custom Map
+# Portfolio :seedling:
+## Algorithmic Justice League Custom Map
 **Process**
 1. I found the logo for the Algorithmic Justice League and uploaded it into Canva to create a color palette. I wanted to customize my palette so I uploaded it to (https://color.adobe.com) and added one more color to the palette. 
