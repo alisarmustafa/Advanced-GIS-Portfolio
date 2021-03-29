@@ -18,7 +18,7 @@ Link to live site: https://alisarmustafa.github.io/Advanced-GIS-Portfolio/
 
 [Assignment 1](Assignment_1.md)
 
-[Black and Red Map](Red_&_Black_Google_Map.html)
+
 
 
 
