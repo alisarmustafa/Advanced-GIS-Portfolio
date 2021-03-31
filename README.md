@@ -15,9 +15,9 @@ Link to live site: https://alisarmustafa.github.io/Advanced-GIS-Portfolio/
 4. How to check for bias in datasets that we want to use 
 
 
-
 [Assignment 1](Assignment_1.md)
 
+[Ottawa Cyclist Collision Map](Ottawa_Cyclist_Collision_Map.md)
 
 
 
